@@ -1,3 +1,4 @@
+<img align="center" src = "https://thumbs.gfycat.com/CompleteSimplisticGrizzlybear-max-1mb.gif">
 <h1 align="center">Hi 👋, I'm Sudhanshu</h1>
 <h3 align="center">A passionate frontend developer looking to learn more of DSA</h3>
 
