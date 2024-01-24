@@ -1,4 +1,4 @@
-<img src = "https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966">
+<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffariza-rafa.medium.com%2F10-web-development-fundamentals-you-should-know-e0d47c23a850&psig=AOvVaw1HNtbLmkVnkG6tUmuZ2jrV&ust=1706166435650000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJD7pLa79YMDFQAAAAAdAAAAABAD">
 
 <h1 align="center">Hi 👋, I'm Sudhanshu</h1>
 <h3 align="center">A passionate frontend developer looking to learn more of DSA</h3>
