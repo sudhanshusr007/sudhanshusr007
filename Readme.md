@@ -1,4 +1,4 @@
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffariza-rafa.medium.com%2F10-web-development-fundamentals-you-should-know-e0d47c23a850&psig=AOvVaw1HNtbLmkVnkG6tUmuZ2jrV&ust=1706166435650000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJD7pLa79YMDFQAAAAAdAAAAABAD">
+<img src = "img.gif">
 
 <h1 align="center">Hi 👋, I'm Sudhanshu</h1>
 <h3 align="center">A passionate frontend developer looking to learn more of DSA</h3>
