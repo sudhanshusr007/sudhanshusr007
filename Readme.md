@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React,Next,Node,Three**
 
-- 💬 Ask me about **HTML,CSS,C++,Python,JS**
+- 💬 Ask me about **HTML,CSS,C++,Python,JS,ReactJS,NodeJs,ExpressJs**
 
 - 📫 How to reach me **sudhanshusr007@gmail.com**
 
