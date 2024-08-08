@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/sudhanshusr007" target="blank"><img src="https://img.shields.io/twitter/follow/sudhanshusr007?logo=twitter&style=for-the-badge" alt="sudhanshusr007" /></a> </p>
 
-- 🔭 I’m currently working on **PurgeWaste**
+- 🔭 I’m currently working on **Spendo**
 
-- 🌱 I’m currently learning **React,Next,Node,Three**
+- 🌱 I’m currently learning **React Native,Next,Node,Three**
 
 - 💬 Ask me about **HTML,CSS,C++,Python,JS,ReactJS,NodeJs,ExpressJs**
 
