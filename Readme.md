@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sudhanshusr007" target="blank"><img src="https://img.shields.io/twitter/follow/sudhanshusr007?logo=twitter&style=for-the-badge" alt="sudhanshusr007" /></a> </p>
 
-- 🔭 I’m currently working on **SchoolManagementSystem** (Trust me it's an ERP)
+- 🔭 I’m currently working on **Yappp** & **SchoolManagementSystem** (Trust me it's an ERP)
 
 - 🌱 I’m currently learning **React Native,Next**
 
